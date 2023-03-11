@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+form input {
+  margin-bottom: 20px;
+  margin-top: 5px;
+  padding: 8px;
+  width: 700px;
+  height: 30px;
+  border-radius: 5px;
+}
+button {
+  width: 150px;
+  height: 30px;
+  background-color: lightblue;
+  border-radius: 10px;
+  border: none;
+  margin-left: 35%;
+}
+button:hover {
+  cursor: pointer;
+}
+
+.red {
+  border: 3px solid red;
+}
+.green {
+  border: 3px solid green;
+}
+p {
+  color: red;
+}
+.hide {
+  visibility: hidden;
+}
+.show {
+  visibility: hidden;
+}
