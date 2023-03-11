@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}div{display:grid;height:100vh;place-items:center}form input{border-radius:5px;height:30px;margin-bottom:20px;margin-top:5px;padding:8px;width:700px}button{background-color:#add8e6;border:none;border-radius:10px;height:30px;margin-left:35%;width:150px}button:hover{cursor:pointer}.red{border:3px solid red}.green{border:3px solid green}p{color:red}.hide,.show{visibility:hidden}
+/*# sourceMappingURL=main.4c99f9d8.css.map*/
